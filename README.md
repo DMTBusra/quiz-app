@@ -25,9 +25,7 @@
 
 <!-- OVERVIEW -->
 
-## Overview
 
-![screenshot](endpoints.png)
 
 ### Built With
 
