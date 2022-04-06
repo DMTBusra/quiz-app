@@ -1,11 +1,10 @@
-# quiz-app
-<!-- Please update value in the {}  -->
+
 
 <h1 align="center">Django Quiz App</h1>
 
 <div align="center">
   <h3>
-    <a href="https://dj-quiz-app-hsyn.herokuapp.com/">
+    <a href="https://qqizz-app.herokuapp.com/">
       Project
     </a>
  
